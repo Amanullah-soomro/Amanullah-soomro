@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amanullah</h1>
-<h3 align="center">I am a motivated and passionate learner with hands-on experience in **Mobile App Development, Python-based Systems, Computer Networks, and Digital Image Processing**. I enjoy building real-world applications and continuously upgrading my technical skills.</h3>
+<h3 align="center">I am a motivated and passionate learner with hands-on experience in 
+  **Mobile App Development, Python-based Systems, Computer Networks, and Digital Image Processing**. 
+  I enjoy building real-world applications and continuously upgrading my technical skills.</h3>
 
 - 🔭 I’m currently working on **Food Delivery Mobile Application**
 
